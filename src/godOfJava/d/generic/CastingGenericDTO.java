@@ -1,4 +1,4 @@
-package godOfJava.accessModifier.d.generic;
+package godOfJava.d.generic;
 
 import java.io.Serializable;
 

@@ -1,6 +1,4 @@
-package godOfJava.accessModifier.d.string.practice;
-
-import java.nio.file.attribute.UserPrincipal;
+package godOfJava.d.string.practice;
 
 public class UseStringMethods {
     public static void main(String[] args) {

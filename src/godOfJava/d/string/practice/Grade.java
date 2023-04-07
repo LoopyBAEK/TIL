@@ -1,4 +1,4 @@
-package godOfJava.accessModifier.d.string.practice;
+package godOfJava.d.string.practice;
 
 public class Grade {
     public static void main(String[] args) {

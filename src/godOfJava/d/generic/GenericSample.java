@@ -1,4 +1,4 @@
-package godOfJava.accessModifier.d.generic;
+package godOfJava.d.generic;
 
 public class GenericSample {
     public static void main(String[] args) {

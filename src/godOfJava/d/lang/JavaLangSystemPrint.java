@@ -1,4 +1,4 @@
-package godOfJava.accessModifier.d.lang;
+package godOfJava.d.lang;
 
 public class JavaLangSystemPrint {
     public static void main(String[] args) {

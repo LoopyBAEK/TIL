@@ -1,4 +1,4 @@
-package godOfJava.accessModifier.d.lang.practice;
+package godOfJava.d.lang.practice;
 
 public class NumberObjects {
     public static void main(String[] args) {

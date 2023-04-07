@@ -1,4 +1,4 @@
-package godOfJava.accessModifier.d.collection;
+package godOfJava.d.collection;
 
 import java.util.ArrayList;
 

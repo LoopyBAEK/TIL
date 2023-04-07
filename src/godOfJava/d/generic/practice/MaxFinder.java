@@ -1,4 +1,4 @@
-package godOfJava.accessModifier.d.generic.practice;
+package godOfJava.d.generic.practice;
 
 public class MaxFinder {
     public static void main(String[] args) {
