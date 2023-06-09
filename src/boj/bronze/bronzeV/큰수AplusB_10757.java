@@ -1,7 +1,9 @@
+package boj.bronze.bronzeV;
+
 import java.util.*;
 import java.math.BigInteger;
 
-public class Main{
+public class 큰수AplusB_10757{
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         
