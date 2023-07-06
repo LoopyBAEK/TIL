@@ -1,4 +1,4 @@
-package boj;
+package boj.DPC2023;
 
 import java.io.BufferedReader;
 import java.io.IOException;
