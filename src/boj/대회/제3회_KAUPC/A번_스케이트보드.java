@@ -1,10 +1,9 @@
-package boj.제3회_KAUPC;
+package boj.대회.제3회_KAUPC;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Arrays;
-import java.util.PriorityQueue;
 import java.util.StringTokenizer;
 
 public class A번_스케이트보드 {

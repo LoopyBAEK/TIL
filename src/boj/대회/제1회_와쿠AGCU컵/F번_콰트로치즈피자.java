@@ -1,4 +1,4 @@
-package boj.제1회_와쿠AGCU컵;
+package boj.대회.제1회_와쿠AGCU컵;
 
 import java.io.BufferedReader;
 import java.io.IOException;

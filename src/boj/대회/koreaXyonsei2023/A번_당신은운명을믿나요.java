@@ -1,4 +1,4 @@
-package boj.koreaXyonsei2023;
+package boj.대회.koreaXyonsei2023;
 
 import java.io.BufferedReader;
 import java.io.IOException;

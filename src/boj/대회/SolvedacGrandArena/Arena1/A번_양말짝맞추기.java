@@ -1,4 +1,4 @@
-package boj.SolvedacGrandArena.Arena1;
+package boj.대회.SolvedacGrandArena.Arena1;
 
 import java.io.BufferedReader;
 import java.io.IOException;

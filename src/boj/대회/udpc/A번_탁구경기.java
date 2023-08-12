@@ -1,4 +1,4 @@
-package boj.udpc;
+package boj.대회.udpc;
 
 import java.io.BufferedReader;
 import java.io.IOException;
